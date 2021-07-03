@@ -93,7 +93,7 @@ MyPOSTAPI=()=>{
       POST API CALL
       </button>
 
-      <h1> Akhzar Post Request Submitted Successfully</h1>
+      <h1> Post Request Submitted Successfully</h1>
 
       </div>
 
